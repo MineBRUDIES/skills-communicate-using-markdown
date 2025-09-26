@@ -9,6 +9,9 @@ public int Calc(int Zahl1; int Zahl2){
   int Zahl3 = Zahl1 + Zahl2;
   }
 }
-``` 
+```
+
+- [x] Zeit vergeuden
+
 
 
